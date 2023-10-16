@@ -12,12 +12,6 @@ Desde então, já participei de alguns "freelas", nos quais trabalhei com PHP, M
 Estou continuamente estudando para aprimorar meus conhecimentos em desenvolvimento web visando me tornar um profissional ainda mais completo.
 </p>
 
-<div id="badges">
-  <a href = "https://www.linkedin.com/alexandremsferr/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
-
 ## Skills 
 
 <div>
