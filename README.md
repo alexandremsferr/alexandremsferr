@@ -1,7 +1,5 @@
 <img src="img.gif" width="500px" />
 
-## Bem vindo(a) ao meu Github  
-
 Me chamo Alexandre Ferreira, tenho 25 anos e sou desenvolvedor backend júnior com Laravel e Node. Utilizo este repertório para postar meus projetos de estudo e também ajudar outros desenvolvedores iniciantes. 
 
 ### Sobre mim
