@@ -16,3 +16,8 @@ Minha jornada profissional começou quando ganhei meu primeiro computador 💻 e
   <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg" title="Laravel" alt="Laravel" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node.Js" alt="Node.Js" width="40" height="40"/>&nbsp;
 </div>
+
+## Contato
+
+contato.alexandremsferreira@gmail.com
+
